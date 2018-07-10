@@ -20,3 +20,5 @@ https://arembedded.teachable.com/courses/enrolled?_ga=2.246003396.1791520993.153
 
 https://www.youtube.com/watch?v=vFv_-ykLppo
 https://www.youtube.com/watch?v=vFv_-ykLppo
+
+https://github.com/pseudomuto/c-data-structures
